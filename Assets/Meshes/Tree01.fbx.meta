@@ -2158,6 +2158,7 @@ ModelImporter:
     104300: leaves
     104302: tree
     104304: //RootNode
+    104306: leaves.001
     400000: bone000.000
     400002: bone000.001
     400004: bone000.002
@@ -4311,16 +4312,19 @@ ModelImporter:
     404300: leaves
     404302: tree
     404304: //RootNode
+    404306: leaves.001
     2100000: No Name
     2300000: tree
     3300000: tree
     4300000: tree
     4300002: leaves
+    4300004: leaves.001
     7400000: treeArm|windAction
     7400002: treeArm|Action
     7400004: tree|Action
     9500000: //RootNode
     13700000: leaves
+    13700002: leaves.001
   externalObjects: {}
   materials:
     importMaterials: 1
