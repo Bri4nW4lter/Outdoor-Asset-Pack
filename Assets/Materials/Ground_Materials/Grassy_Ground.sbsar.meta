@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 163d4a0baaf1b1e40ad9f431e7181de2
-timeCreated: 1520425208
+timeCreated: 1520611071
 licenseType: Free
 SubstanceImporter:
   externalObjects: {}
@@ -11,7 +11,7 @@ SubstanceImporter:
     prototypeName: Grassy_Ground
     shaderName: 
     shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-    shaderKeywords: 
+    shaderKeywords: _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
     renderQueue: -1
     lightmapFlags: 4
     inputs:

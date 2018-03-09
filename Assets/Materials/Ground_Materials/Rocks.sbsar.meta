@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 19f80c55c9295d4458bc5bd362a8a09c
-timeCreated: 1520546289
+timeCreated: 1520607889
 licenseType: Free
 SubstanceImporter:
   externalObjects: {}
@@ -26,7 +26,7 @@ SubstanceImporter:
     materialInformation:
       serializedVersion: 5
       offset: {x: 0, y: 0}
-      scale: {x: 1, y: 1}
+      scale: {x: 0.5, y: 0.5}
       generateMipmaps: 1
       generateAllOutputs: 0
       animationUpdateRate: 42
@@ -35,7 +35,7 @@ SubstanceImporter:
       texEnvs:
       - _BumpMap:
           texture: {instanceID: 0}
-          scale: {x: 1, y: 1}
+          scale: {x: 0.5, y: 0.5}
           offset: {x: 0, y: 0}
       - _DetailAlbedoMap:
           texture: {instanceID: 0}
@@ -51,15 +51,15 @@ SubstanceImporter:
           offset: {x: 0, y: 0}
       - _EmissionMap:
           texture: {instanceID: 0}
-          scale: {x: 1, y: 1}
+          scale: {x: 0.5, y: 0.5}
           offset: {x: 0, y: 0}
       - _MainTex:
           texture: {instanceID: 0}
-          scale: {x: 1, y: 1}
+          scale: {x: 0.5, y: 0.5}
           offset: {x: 0, y: 0}
       - _MetallicGlossMap:
           texture: {instanceID: 0}
-          scale: {x: 1, y: 1}
+          scale: {x: 0.5, y: 0.5}
           offset: {x: 0, y: 0}
       - _OcclusionMap:
           texture: {instanceID: 0}
@@ -67,7 +67,7 @@ SubstanceImporter:
           offset: {x: 0, y: 0}
       - _ParallaxMap:
           texture: {instanceID: 0}
-          scale: {x: 1, y: 1}
+          scale: {x: 0.5, y: 0.5}
           offset: {x: 0, y: 0}
       floats:
       - _BumpScale: 1
