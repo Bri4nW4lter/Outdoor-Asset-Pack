@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 423cd40bd887d9e418cccace3912e8c8
-timeCreated: 1520695169
+timeCreated: 1520696718
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -435,12 +435,9 @@ ModelImporter:
     100854: bone104.001
     100856: bone104.001_end
     100858: //RootNode
-    100860: Camera
-    100862: Lamp
-    100864: leaves
-    100866: leaves.001
-    100868: tree
-    100870: treeArm
+    100860: leaves
+    100862: leaves.001
+    100864: tree
     400000: bone000.000
     400002: bone000.001
     400004: bone000.002
@@ -871,13 +868,9 @@ ModelImporter:
     400854: bone104.001
     400856: bone104.001_end
     400858: //RootNode
-    400860: Camera
-    400862: Lamp
-    400864: leaves
-    400866: leaves.001
-    400868: tree
-    400870: treeArm
-    2000000: Camera
+    400860: leaves
+    400862: leaves.001
+    400864: tree
     2100000: No Name
     2300000: tree
     3300000: tree
@@ -886,7 +879,6 @@ ModelImporter:
     4300004: leaves
     7400000: treeArm|windAction
     9500000: //RootNode
-    10800000: Lamp
     13700000: leaves
     13700002: leaves.001
   externalObjects: {}
